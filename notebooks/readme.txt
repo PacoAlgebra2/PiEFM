@@ -10,4 +10,3 @@ In order to get the decoupled model from an original one and all the associated 
 
 In its present state, both notebooks are prepared to work with the model 'e. coli core' that can be obtained from BIGGs
 
-We have also included the necessary files to work with this model (they are computed from the non-compressed model) in the folder 'Example files',
